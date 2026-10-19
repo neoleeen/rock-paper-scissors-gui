@@ -1,6 +1,6 @@
 # Rock Paper Scissors GUI
 
-A simple Rock Paper Scissors game with a graphical interface, built while completing the **GitHub Copilot course on [Codédex]([https://www.codedex.io](https://www.codedex.io/github-copilot))**
+A simple Rock Paper Scissors game with a graphical interface, built while completing the **GitHub Copilot course on:** [Codedex](https://www.codedex.io/github-copilot)
 
 ## About this project
 
